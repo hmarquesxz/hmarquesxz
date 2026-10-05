@@ -5,8 +5,8 @@
 
 <div>
   👩‍🎓 Futuro graduado em  Gestão da Tecnologia da Informação.<br>
-  👩‍💻 Construindo a carreira que sempre foi meu sonho.<br>
-  📖 Meu hobby favorito é a leitura, especialmente suspense.<br>
+  👩‍💻 Construindo a carreira que sempre foi meu sonho construir.<br>
+  📖 Meu hobby favorito é Seríes na Netflix e outros meios de Streamings.<br>
   👀 Curiosidade: Os meus cantores que eu mais gosto são: Veigh,Matue,Bk,Teto,🧡<br>
   <p>Mantra pessoal: If you can dream it,you can do it </p>
 </div>
