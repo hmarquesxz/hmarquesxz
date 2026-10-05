@@ -8,7 +8,7 @@
   👩‍💻 Construindo a carreira que sempre foi meu sonho.<br>
   📖 Meu hobby favorito é a leitura, especialmente suspense.<br>
   👀 Curiosidade: O maior fã de FNAF da vida 🧡<br>
-  <p>Mantra pessoal: If you can dream it,you can do it 💜</p>
+  <p>Mantra pessoal: If you can dream it,you can do it </p>
 </div>
 </div> 
 
